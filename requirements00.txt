@@ -1,0 +1,14 @@
+imutils
+layoutparser
+nltk
+numpy
+opencv-python
+pandas
+pytesseract
+shutil
+scikit-image
+scikit-learn
+scipy
+toml
+thefuzz
+
